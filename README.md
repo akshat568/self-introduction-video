@@ -7,3 +7,4 @@ Course: B.Tech CSE
 College: VIT Bhopal  
 
 This video reflects my personality, strengths, weaknesses, hobbies, and goals.
+This video reflects my approach towards learning and self-improvement.
